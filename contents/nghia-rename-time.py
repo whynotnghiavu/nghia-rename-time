@@ -8,6 +8,7 @@ from tqdm import tqdm
 folder_path = r"input-nghia-rename-time"
 folder_path = r"/home/vvn20206205/Desktop/input-nghia-rename-time"
 folder_path = r"/home/vvn20206205/Desktop/input"
+folder_path = r"C:\Users\vvn20206205\Desktop\metHe"
 
 
 if not os.path.exists(folder_path):
